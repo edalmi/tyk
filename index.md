@@ -1,15 +1,11 @@
 ---
 title: Authorization Modes for Tyk Portal
-description: An example slide deck created by Marp CLI
 author: Edson Michaque
-url: https://marp.app/
 paginate: true
-footer: 'Authorization Modes for Tyk Portal'
 class: lead
 
 ---
 # Authorization Modes for Tyk Portal
-20th March 2023
 Edson Michaque
 
 ---
@@ -70,7 +66,7 @@ Edson Michaque
 # Recommendation and Implementation
 
 ---
-![image info](./images/scrum.jpg)
+![image info](./images/ial.svg)
 
 ---
 # Collaboration and Improvement
