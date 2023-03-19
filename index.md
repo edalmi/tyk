@@ -9,7 +9,8 @@ class: lead
 
 ---
 # Authorization Modes for Tyk Portal
-Edson Michaque <edson@michaque.com>
+20th March 2023
+Edson Michaque
 
 ---
 
