@@ -4,12 +4,12 @@ description: An example slide deck created by Marp CLI
 author: Edson Michaque
 url: https://marp.app/
 paginate: true
-footer: 'Footer content'
+footer: 'Authorization Modes for Tyk Portal'
 class: lead
 
 ---
-# Tyk Portal Authorization
-Edson Michaque
+# Authorization Modes for Tyk Portal
+Edson Michaque <edson@michaque.com>
 
 ---
 
