@@ -24,16 +24,9 @@ Edson Michaque
 ---
 # Use Cases
 
-1. U01: Register and remove users
-2. U02: Manage access control
-3. U03: Integration to external identity providers
-4. U04: Give access to selected operations
-5. U05: Give secure access to third party systems
-6. U06: Use third party identity management systems
-7. U07: Allow self-service registration
-8. U08: Track usage
-9. U09: Revoke access
-10. Map roles to organization units
+1. Seemless onboard of providers and consumers
+2. Ability to connect to external IdP
+3. Allow fine grained access control
 
 ---
 # Authorization Methods For Portal Access
