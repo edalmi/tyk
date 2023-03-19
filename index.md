@@ -24,9 +24,9 @@ Edson Michaque <edson@michaque.com>
 ---
 # Use Cases
 
-1. Seemless onboard of providers and consumers
-2. Ability to connect to external IdP
-3. Allow fine grained access control
+1. Seemless on-boarding of both API designers and API consumers
+2. Authorize both API designers and API consumers against external IdP
+3. Fine grained access control management
 
 ---
 # Authorization Methods For Portal Access
