@@ -66,7 +66,14 @@ Edson Michaque
 # Recommendation and Implementation
 
 ---
+# Recommendation
+
 ![image info](./images/ial.svg)
+
+---
+# Implementation
+
+![image info](./images/scrum.jpg)
 
 ---
 # Collaboration and Improvement
