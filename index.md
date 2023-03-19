@@ -1,5 +1,5 @@
 ---
-title: Tyk Portal Authorization
+title: Authorization Modes for Tyk Portal
 description: An example slide deck created by Marp CLI
 author: Edson Michaque
 url: https://marp.app/
